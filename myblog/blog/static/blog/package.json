@@ -1,0 +1,28 @@
+{
+  "name": "myblog",
+  "version": "1.0.0",
+  "description": "A react based blogging Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "b"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tarzzz/myblog.git"
+  },
+  "keywords": [
+    "Blog",
+    "React",
+    "FrontEnd",
+    "Node"
+  ],
+  "author": "tarzzz",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tarzzz/myblog/issues"
+  },
+  "homepage": "https://github.com/tarzzz/myblog#readme",
+  "dependencies": {
+    "webpack": "^2.4.1"
+  }
+}
